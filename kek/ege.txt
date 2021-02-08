@@ -1,0 +1,74 @@
+Lomonosov MSU;Faculty of Mechanics and Mathematics;Fundamental  Mathematics and  Mechanics (Mathematics);Physics;;345;Specialist;Mathematics;
+Lomonosov MSU;Faculty of Mechanics and Mathematics;Fundamental  Mathematics and  Mechanics (Mechanics);Physics;;331;Specialist;Mathematics;
+Lomonosov MSU;Faculty of Computational Mathematics and Cybernetics;Applied Mathematics and Informatics;Informatics;Physics;441;Bachelor;Mathematics;
+Lomonosov MSU;Faculty of Computational Mathematics and Cybernetics;Fundamental Informatics and Information Technologies;Informatics;Physics;432;Bachelor;Mathematics;
+Lomonosov MSU;Faculty of Physics;Astronomy;Physics;;328;Specialist;Physics;
+Lomonosov MSU;Faculty of Physics;Physics;Physics;;333;Bachelor;Physics;
+Lomonosov MSU;Faculty of Chemistry;Fundamental and Applied Chemistry;Physics;Chemistry;419;Specialist;Chemistry;
+Lomonosov MSU;Faculty of Materials Science;Chemistry, Physics and Mechanics of Materials;Physics;Chemistry;408;Bachelor;Mathematics;
+Lomonosov MSU;Faculty of Biology;Biology;Chemistry;Biology;444;Bachelor;Biology;
+Lomonosov MSU;Faculty of Biology;Ecology and Nature Management;Biology;Geography;383;Bachelor;Biology;
+Lomonosov MSU;Faculty of Bioengineering and Bioinformatics;Bioengineering and Bioinformatics;Chemistry;Biology;460;Specialist;Mathematics;
+Lomonosov MSU;Faculty of Biotechnology;Biology;Chemistry;Biology;437;Bachelor;Biology;
+Lomonosov MSU;Faculty of Physics and Chemistry;Applied Mathematics and Physics;Physics;;321;Bachelor;Mathematics;
+Lomonosov MSU;Faculty of Physics and Chemistry;Fundamental and Applied Chemistry;Physics;Chemistry;407;Specialist;Chemistry;
+NRU HSE;Moscow Institute of Electronics and Mathematics;Informatics and Computer Engineering;Physics;;263;Bachelor;---;
+NRU HSE;Moscow Institute of Electronics and Mathematics;Computer Security;Informatics;;280;Specialist;---;
+NRU HSE;Moscow Institute of Electronics and Mathematics;Applied Mathematics;Physics;;269;Bachelor;---;
+NRU HSE;Moscow Institute of Electronics and Mathematics;Infocommunication technologies and communication systems;Physics;;256;Bachelor;---;
+NRU HSE;Faculty of Mathematics;Mathematics;Physics;;297;Bachelor;---;
+NRU HSE;Faculty of Computer Science;Applied Mathematics and Informatics;Informatics;;297;Bachelor;---;
+NRU HSE;Faculty of Computer Science;Software Engineering;Informatics;;296;Bachelor;---;
+NRU HSE;Faculty of Physics;Physics;Physics;;272;Bachelor;---;
+Bauman MSTU;Informatics and Control Systems;Software Engineering;Informatics;;287;Bachelor;---;
+Bauman MSTU;Informatics and Control Systems;Computer Security;Physics;;284;Specialist;---;
+Bauman MSTU;Informatics and Control Systems;Information Security;Physics;;270;Specialist;---;
+Bauman MSTU;Informatics and Control Systems;Applied Mathamatics and Informatics;Informatics;;268;Bachelor;---;
+Bauman MSTU;Informatics and Control Systems;Information Systems and Technologies;Informatics;;255;Bachelor;---;
+Bauman MSTU;Informatics and Control Systems;Informatics and Computer Engineering;Informatics;;278;Bachelor;---;
+Bauman MSTU;Informatics and Control Systems;Applied Computer Science;Informatics;;274;Bachelor;---;
+Bauman MSTU;Informatics and Control Systems;Computer Design and Technology;Physics;;242;Bachelor;---;
+Bauman MSTU;Biomedical Technologies;Medic-Technical Systems and Technologies;Physics;;259;Bachelor;---;
+Bauman MSTU;Fundamental Sciences;Mathematics and Computer Science;Physics;;257;Bachelor;---;
+Bauman MSTU;Fundamental Sciences;Applied Mathematics;Physics;;255;Bachelor;---;
+Bauman MSTU;Fundamental Sciences;Technical Physics;Physics;;248;Bachelor;---;
+Bauman MSTU;Robotics and Complex Automation;Informatics and Computer Engineering;Physics;;256;Bachelor;---;
+Bauman MSTU;Robotics and Complex Automation;Applied Mechanics;Physics;;251;Bachelor;---;
+Bauman MSTU;Robotics and Complex Automation;Computer Systems of Manufacture Automation;Physics;;251;Bachelor;---;
+Bauman MSTU;Radioelectronics and Laser Technologies;Nanoengineering;Physics;;249;Bachelor;---;
+Bauman MSTU;Radioelectronics and Laser Technologies;Optic-Electronic Devices;Physics;;248;Bachelor;---;
+Bauman MSTU;Radioelectronics and Laser Technologies;Laser technique and tecnologies;Physics;;247;Bachelor;---;
+Bauman MSTU;Radioelectronics and Laser Technologies;Electronic and Optic-Electronic Devices of Special Purpose;Physics;;237;Specialist;---;
+Bauman MSTU;Power Engineering;High-tech plasma and power equipment;Physics;;247;Bachelor;---;
+Bauman MSTU;Power Engineering;Special Life Support Systems;Physics;;245;Specialist;---;
+Bauman MSTU;Power Engineering;Nuclear Power and Thermophysics;Physics;;242;Bachelor;---;
+Bauman MSTU;Power Engineering;Technological Machines and Equipment;Physics;;236;Bachelor;---;
+Bauman MSTU;Power Engineering;The Refrigerating, Cryogenic Technic and Life-support;Physics;;235;Bachelor;---;
+Bauman MSTU;Power Engineering;Nuclear Reactors and Material;Physics;;235;Specialist;---;
+Bauman MSTU;Power Engineering;Design of Aircraft and Rocket Engines;Physics;;232;Specialist;---;
+Bauman MSTU;Power Engineering;Technosphere Safety;Physics;;229;Bachelor;---;
+Bauman MSTU;Power Engineering;Power Engineering;Physics;;218;Bachelor;---;
+Bauman MSTU;Special Machinery;Materials Science and Materials Technology;Physics;;220;Bachelor;---;
+Bauman MSTU;Special Machinery;Missile Systems and Astronautics;Physics;;244;Bachelor;---;
+Bauman MSTU;Social and The Humanities;Applied Informatics;Informatics;;243;Bachelor;---;
+Bauman MSTU;Engineering Business and Management;Innovation Science;Physics;;235;Bachelor;---;
+Bauman MSTU;Machinery Technologies;Standardization and Metrology;Physics;;232;Bachelor;---;
+Bauman MSTU;Machinery Technologies;Electronics and Nanoelectronics;Physics;;230;Bachelor;---;
+Bauman MSTU;Machinery Technologies;Materials Science and Materials Technology;Physics;;230;Bachelor;---;
+Bauman MSTU;Machinery Technologies;Nanoengineering;Physics;;219;Bachelor;---;
+Bauman MSTU;Machinery Technologies;Machinery;Physics;;218;Bachelor;---;
+Lomonosov MSU;Faculty of Philosophy;Religious Studies;History;Social Science;318;Bachelor;Social Science;
+RTU MIREA;Information Technology Department;Software Engineering;Informatics;;242;Bachelor;---;
+
+RTU MIREA;Informatoin Technology Department;Applied Mathematics and Informatics;Informatics;;243;Bachelor;---;
+
+RTU MIREA;Informatoin Technology Department;Informatics and Computer Engineering;Physics;;220;Bachelor;---;
+
+RTU MIREA;Information Technology Department;Computer Security;Physics;;226;Specialist;---;
+
+
+RTU MIREA;Information Technology Department;Applied Mathematics;Informatics;;233;Bachelor;---;
+
+RTU MIREA;Institute of Fine Chemical Technologies;Chemistry;Chemistry;;233;Bachelor;---;
+RTU MIREA;Institute of Radio Engineering and Telecommunication Systems;Radio Engineering;Physics;;199;Bachelor;---;
+RTU MIREA;Institute of Physics and Technology;Optotechnics;Physics;;191;Bachelor;---;

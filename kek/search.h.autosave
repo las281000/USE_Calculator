@@ -1,0 +1,21 @@
+#ifndef SEARCH_H
+#define SEARCH_H
+#include <string>
+#include <utility>
+#include <vector>
+using namespace std;
+
+class Search
+{
+private:
+   int N; //кол-во введенных экзаменов
+   vector <pair <string,int>> Data; //можно самому устанавливать размер
+public:
+    Search();
+    void setN(int);
+    int getN();
+    void setExams(string);
+    
+};
+
+#endif // SEARCH_H
